@@ -38,5 +38,14 @@ Sono aperto a collaborare su progetti **Open Source** che riguardano l'ecosistem
 ### ⚡ Fun Facts & Life
 
 * **The Name:** Il mio nickname viene da *Crovax the Cursed* (**Magic: The Gathering**). Un pezzo di storia che mi accompagna fin da bambino.
+* **Vibe Coding:** Nel tempo libero sperimento con **local LLM** sulla mia GPU e mi diverto a costruire tool AI-driven.
+* **RAG in Healthcare:** Seguo con interesse le ricerche su sistemi **RAG** applicati al mondo **healthcare**.
+* **Cycling:** Quando non sono al PC, mi trovi in sella alla mia bicicletta.
 * **Gaming:** Da WoW e LoL a **Factorio** e **Minecraft**. Se un gioco permette di costruire sistemi complessi e ottimizzare flussi, fa per me.
 * **Life:** Vivo nella splendida Firenze e dedico il mio tempo migliore alla mia compagna e a mio figlio.
+
+---
+
+### 🤝 Network
+
+Mi farebbe piacere avertirti nel mio network. Connectiamo!
