@@ -116,6 +116,6 @@ Sono aperto a collaborare su progetti **Open Source** che riguardano l'ecosistem
 
 ---
 
-### 🤝 Network
+Per 10 anni ho percorso Azeroth come **Tauren Druido Restoration** — da *Burning Crusade* a *Pandaria*, attraverso *WOTLK* e *Cataclysm*. Oggi esploro architetture enterprise e agentic AI con lo stesso spirito: pazienza da healer, resilienza tauren.
 
-Mi farebbe piacere avertirti nel mio network. Connectiamo!
+**May the Earth Mother guide your path.** 🌿
