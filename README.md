@@ -1,6 +1,4 @@
-```
-🧙‍♂️ Ciao, sono Luca (Crovax1990)
-```
+# 🧙‍♂️ Ciao, sono @Crovax1990 (Luca)
 
 **Senior Software Engineer** · Firenze  
 Enterprise modernization · Agentic AI · Local LLMs  
@@ -13,9 +11,9 @@ Orgoglioso papà, ex-Druid Resto da BC a Pandaria 🌿
 * **Backend Modernization:** Specializzato nella migrazione di sistemi legacy **Java 1.8** verso architetture **Cloud Native** distribuite (**Java 21+**, **Spring Boot 3**, **Spring Cloud**).
 * **Event-Driven Architectures:** Esperto in data streaming ad alte prestazioni con **Apache Kafka** e **KStream**.
 * **Infrastructure & Orchestration:** Ambienti Kubernetes reali e simulati (**minikube**), containerizzazione **Docker**, orchestrazione nativa per il cloud.
-* **Agentic AI & LLMs:** Pioniere nell'integrazione di **Agentic Workflows**. Implemento **Server MCP (Model Context Protocol)** e sviluppo soluzioni basate su modelli locali (serie **Qwen2.5-coder**) per l'automazione avanzata del software engineering.
+* **Agentic AI & LLMs:** Pioniere nell'integrazione di **Agentic Workflows**. Implemento **Server MCP (Model Context Protocol)** e sviluppo soluzioni basate su modelli locali (serie **Qwen**, **Gemma**, **Llama**) per l'automazione avanzata del software engineering.
 * **Agentic Development:** Pipeline di sviluppo agentico con **Opencode** + **OpenSpec** per change management strutturato, specifiche automatiche e CI/CD delle decisioni architetturali.
-* **Local LLM Inference:** Esecuzione locale su **AMD RX 6800 16GB VRAM** con **ROCm**. Modelli open-weight (Qwen, Llama, DeepSeek) via **llama.cpp** con accelerazione GPU nativa (**CUDA**/**ROCm**).
+* **Local LLM Inference:** Esecuzione locale su **AMD RX 6800 16GB VRAM** con **ROCm**. Modelli open-weight (**Qwen**, **Gemma**, **Llama**) via **llama.cpp** con accelerazione GPU nativa (**CUDA**/**ROCm**).
 * **LLM-Augmented Knowledge Management:** Implementazione del pattern **[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** (Karpathy, 2026) — basi di conoscenza persistenti e compounding dove l'LLM mantiene il wiki, tu curi le fonti.
 
 ---
