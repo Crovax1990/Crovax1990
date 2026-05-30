@@ -1,6 +1,10 @@
-# 👋 Ciao, sono @Crovax1990 (Luca)
+```
+🧙‍♂️ Ciao, sono Luca (Crovax1990)
+```
 
-Benvenuti nel mio angolo di GitHub! Sono un **Senior Software Engineer** con base a **Firenze** e un orgoglioso papà. Il mio lavoro si concentra sulla modernizzazione di architetture enterprise e sulla nuova frontiera dell'**Agentic AI**.
+**Senior Software Engineer** · Firenze  
+Enterprise modernization · Agentic AI · Local LLMs  
+Orgoglioso papà, ex-Druid Resto da BC a Pandaria 🌿
 
 ---
 
@@ -8,10 +12,10 @@ Benvenuti nel mio angolo di GitHub! Sono un **Senior Software Engineer** con bas
 
 * **Backend Modernization:** Specializzato nella migrazione di sistemi legacy **Java 1.8** verso architetture **Cloud Native** distribuite (**Java 21+**, **Spring Boot 3**, **Spring Cloud**).
 * **Event-Driven Architectures:** Esperto in data streaming ad alte prestazioni con **Apache Kafka** e **KStream**.
-* **Infrastructure & Orchestration:** Gestione di ambienti complessi su **Kubernetes** (K8s) e soluzioni native per il cloud.
+* **Infrastructure & Orchestration:** Ambienti Kubernetes reali e simulati (**minikube**), containerizzazione **Docker**, orchestrazione nativa per il cloud.
 * **Agentic AI & LLMs:** Pioniere nell'integrazione di **Agentic Workflows**. Implemento **Server MCP (Model Context Protocol)** e sviluppo soluzioni basate su modelli locali (serie **Qwen2.5-coder**) per l'automazione avanzata del software engineering.
 * **Agentic Development:** Pipeline di sviluppo agentico con **Opencode** + **OpenSpec** per change management strutturato, specifiche automatiche e CI/CD delle decisioni architetturali.
-* **Local LLM Inference:** Esecuzione locale di modelli open-weight (Qwen, Llama, DeepSeek) via **llama.cpp** con accelerazione GPU nativa (**CUDA**/**ROCm**).
+* **Local LLM Inference:** Esecuzione locale su **AMD RX 6800 16GB VRAM** con **ROCm**. Modelli open-weight (Qwen, Llama, DeepSeek) via **llama.cpp** con accelerazione GPU nativa (**CUDA**/**ROCm**).
 * **LLM-Augmented Knowledge Management:** Implementazione del pattern **[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** (Karpathy, 2026) — basi di conoscenza persistenti e compounding dove l'LLM mantiene il wiki, tu curi le fonti.
 
 ---
@@ -31,20 +35,11 @@ Benvenuti nel mio angolo di GitHub! Sono un **Senior Software Engineer** con bas
   ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-#### 🤖 Agentic AI & RAG
-- **draiver-fine-state-machine** — Telegram bot per sviluppo agentico con OpenCode
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
-
+#### 🤖 AI & RAG
 - **docling-rag-app** — Pipeline RAG 100% locale con LlamaIndex + Ollama
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000?style=flat&logo=llama&logoColor=white)
   ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat&logo=ollama&logoColor=white)
-
-- **meyer-glycalens** — Ingestione documenti clinici con AI locale (Meyer Hospital)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-  ![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat&logo=postgresql&logoColor=white)
 
 - **draiver-nexus** — ETL e-commerce con estrazione AI da siti italiani
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -53,7 +48,7 @@ Benvenuti nel mio angolo di GitHub! Sono un **Senior Software Engineer** con bas
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 #### ☕ Enterprise Java
-- **draiver-flow** — Cloud-native con Micro Frontend, Virtual Threads, Kafka
+- **draiver-flow** — Cloud-native con Micro Frontend, Virtual Threads, Kafka, integrazione **llama.cpp** per AI on-premise
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
   ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
@@ -62,14 +57,14 @@ Benvenuti nel mio angolo di GitHub! Sono un **Senior Software Engineer** con bas
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 #### ⚡ LLM Infrastructure
-- **llama.cpp** — Motore inferenza LLM locale puro C/C++ (GGML, CUDA, ROCm)
+- **llama.cpp** — Motore inferenza LLM locale in C/C++ (GGML, CUDA, ROCm), cuore dell'AI on-premise in draiver-flow
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
   ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
   ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
   ![ROCm](https://img.shields.io/badge/ROCm-76B900?style=flat&logo=amd&logoColor=white)
 
 #### 🐍 Python Tooling
-- **rush-hour-solver** — Risolutore puzzle Rush Hour con BFS e 4 interfacce
+- **rush-hour-solver** — Risolutore puzzle Rush Hour con BFS e interfacce TUI/GUI/CLI
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
 
@@ -80,14 +75,10 @@ Benvenuti nel mio angolo di GitHub! Sono un **Senior Software Engineer** con bas
 - **draiver-pubmed-scraper** — Scraper asincrono PubMed → CSV
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- **telegram-media-downloader** — Downloader bulk media da Telegram
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![PySide](https://img.shields.io/badge/PySide-41CD52?style=flat&logo=qt&logoColor=white)
-
 #### 📚 Research Wikis
-- **draiver-house-llm-wiki** — Documentazione immobiliare (pattern llm-wiki)
 - **midwife-llm-wiki** — Ricerca ostetrica (pattern llm-wiki)
-  pattern **[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** · Obsidian · Markdown
+- **draiver-home-scraper** — Documentazione immobiliare: modello Pydantic 3D, rendering SVG planimetrie, analisi geometrie con Shapely
+  pattern **[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** · Obsidian · Python · Shapely
 
 ---
 
