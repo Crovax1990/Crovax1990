@@ -1,110 +1,188 @@
-# 🧙‍♂️ Ciao, sono @Crovax1990 (Luca)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Technical+Lead+%7C+Software+Architect;Cloud+Native+%7C+Event-Driven;Agentic+AI+%7C+Local+LLMs;Kubernetes+%7C+Kafka+%7C+Java+21%2B" alt="Typing SVG" />
+</p>
 
-**Senior Software Engineer** · Firenze  
-Enterprise modernization · Agentic AI · Local LLMs  
-Orgoglioso papà, ex-Druid Resto da BC a Pandaria 🌿
+<p align="center">
+  <a href="https://www.linkedin.com/in/luca-gobbi-12015580/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:luca.gobbi2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Crovax1990&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Crovax1990">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crovax1990&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Crovax1990&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Crovax1990&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
+</p>
 
 ---
 
-### 🚀 Stack & Focus Tecnico
+## 👋 About Me / Chi Sono
 
-* **Backend Modernization:** Specializzato nella migrazione di sistemi legacy **Java 1.8** verso architetture **Cloud Native** distribuite (**Java 21+**, **Spring Boot 3**, **Spring Cloud**).
-* **Event-Driven Architectures:** Esperto in data streaming ad alte prestazioni con **Apache Kafka** e **KStream**.
-* **Infrastructure & Orchestration:** Ambienti Kubernetes reali e simulati (**minikube**), containerizzazione **Docker**, orchestrazione nativa per il cloud.
-* **Agentic AI & LLMs:** Pioniere nell'integrazione di **Agentic Workflows**. Implemento **Server MCP (Model Context Protocol)** e sviluppo soluzioni basate su modelli locali (serie **Qwen**, **Gemma**, **Llama**) per l'automazione avanzata del software engineering.
-* **Agentic Development:** Pipeline di sviluppo agentico con **Opencode** + **OpenSpec** per change management strutturato, specifiche automatiche e CI/CD delle decisioni architetturali.
-* **Local LLM Inference:** Esecuzione locale su **AMD RX 6800 16GB VRAM** con **ROCm**. Modelli open-weight (**Qwen**, **Gemma**, **Llama**) via **llama.cpp** con accelerazione GPU nativa (**CUDA**/**ROCm**).
-* **LLM-Augmented Knowledge Management:** Implementazione del pattern **[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** (Karpathy, 2026) — basi di conoscenza persistenti e compounding dove l'LLM mantiene il wiki, tu curi le fonti.
+**🇬🇧** Senior Software Engineer, Technical Lead & Software Architect with **9+ years** designing and modernizing mission-critical enterprise platforms. Specialized in **Cloud Native** architectures, **Event-Driven** systems, and **Agentic AI** workflows. Proud father, ex-Tauren Restoration Druid from BC to Pandaria 🌿 — now I raid enterprise stacks.
+
+**🇮🇹** Senior Software Engineer, Technical Lead e Software Architect con **oltre 9 anni** di progettazione e modernizzazione di piattaforme enterprise mission-critical. Specializzato in architetture **Cloud Native**, sistemi **Event-Driven** e workflow **Agentic AI**. Orgoglioso papà, ex-Druid Resto Tauren da BC a Pandaria 🌿 — oggi tanko stack enterprise.
 
 ---
 
-### 📦 Progetti Attivi
+## 💼 Experience / Esperienze
 
-#### 🖥️ Desktop App
-- **draiver-bakery-control** — Gestione contabile per panetteria offline-first
-  ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+| Period | Role | Highlights |
+|--------|------|------------|
+| **2025-present** | Senior Software Engineer | Cloud-native platform migration: **Kubernetes**, **Kafka**, **ArgoCD**, **GitOps**. **Agentic AI** integration via **MCP**, **OpenSpec** SDD, **GitHub Copilot CLI**. Agile Scrum facilitation. |
+| **2019–2025** · 6 yrs | Senior SE / Technical Lead | Led national critical traffic data acquisition systems. **Kafka Streams** real-time pipelines. Microservices on **AWS EKS** (Lambda, S3, Aurora PostgreSQL). **Angular** micro-frontends. **CI/CD** automation (Jenkins, GitLab CI, UrbanCode). |
+| **2016–2019** · 3 yrs | Junior Developer / SysAdmin | Batch **Java** apps for energy sector (EE & GAS contracts). End-to-end **forecasting system** for electricity consumption. **JasperReports** invoicing. **Spring Framework**, **Oracle DB**. |
+| **2016** | Data Entry / Jr Developer | **Java** connector for automated photovoltaic plant data import from CSV. |
 
-- **smart-sales-calendar** — CRM vendite dentali con reminder intelligenti
-  ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+---
 
-#### 🤖 AI & RAG
-- **docling-rag-app** — Pipeline RAG 100% locale con LlamaIndex + Ollama
+## 🎓 Education / Formazione
+
+- **Università degli Studi di Perugia** — Degree in Programming, Mathematics & Natural Sciences (2010–2015)
+- **Liceo Scientifico 'Gandhi' Narni** — High School Diploma, EQF Level 4 (2003–2009)
+
+---
+
+## 🚀 Tech Stack
+
+### Architectures & Languages
+![Java](https://img.shields.io/badge/Java_1.8--21+-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### Data & Messaging
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Kafka Streams](https://img.shields.io/badge/Kafka_Streams-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Avro](https://img.shields.io/badge/Avro_Schema_Registry-231F20?style=flat&logo=apache&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS_EKS_Lambda_S3-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+### AI & Agentic Development
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-4285F4?style=flat&logo=google&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-000?style=flat&logo=protocolsdotio&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat&logo=ollama&logoColor=white)
+![Local LLM](https://img.shields.io/badge/Local_LLMs-Qwen_Gemma_Llama-FF6F00?style=flat&logo=llama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_ChromaDB-3776AB?style=flat&logo=python&logoColor=white)
+![OpenSpec](https://img.shields.io/badge/OpenSpec_SDD-000?style=flat&logo=openapi&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Practices
+![Scrum](https://img.shields.io/badge/Agile_Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![SDD](https://img.shields.io/badge/Spec_Driven_Dev-000?style=flat&logo=openapi&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-EF7B4D?style=flat&logo=argo&logoColor=white)
+
+---
+
+## 📦 Featured Projects / Progetti
+
+### 🤖 AI & RAG
+- **[docling-rag-app](https://github.com/Crovax1990/docling-rag-app)** — RAG pipeline 100% locale con **LlamaIndex** + **Ollama** + **ChromaDB**. Generazione autonoma di moduli didattici da documenti complessi via Agentic AI e **MCP**.
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000?style=flat&logo=llama&logoColor=white)
-  ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat&logo=ollama&logoColor=white)
+  ![RAG](https://img.shields.io/badge/RAG-ChromaDB-4B8BBE?style=flat)
+  ![MCP](https://img.shields.io/badge/MCP-Protocol-000?style=flat)
 
-- **draiver-nexus** — ETL e-commerce con estrazione AI da siti italiani
+- **[draiver-nexus](https://github.com/Crovax1990/draiver-nexus)** — ETL e-commerce con estrazione AI da siti italiani. **FastAPI**, **PostgreSQL**, **Docker**.
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#### ☕ Enterprise Java
-- **draiver-flow** — Cloud-native con Micro Frontend, Virtual Threads, Kafka, integrazione **llama.cpp** per AI on-premise
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+### ☕ Enterprise Java
+- **[draiver-flow](https://github.com/Crovax1990/draiver-flow)** — Cloud-native: Micro Frontend, Virtual Threads, **Kafka**, integrazione **llama.cpp** per AI on-premise.
+  ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
   ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+### 🖥️ Desktop Apps (Tauri + React + Rust)
+- **[smart-sales-calendar](https://github.com/Crovax1990/smart-sales-calendar)** — CRM vendite dentali con reminder intelligenti, offline-first.
+  ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-#### ⚡ LLM Infrastructure
-- **llama.cpp** — Motore inferenza LLM locale in C/C++ (GGML, CUDA, ROCm), cuore dell'AI on-premise in draiver-flow
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-  ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-  ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-  ![ROCm](https://img.shields.io/badge/ROCm-76B900?style=flat&logo=amd&logoColor=white)
+- **[draiver-bakery-control](https://github.com/Crovax1990/draiver-bakery-control)** — Gestione contabile per panetteria offline-first.
+  ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-#### 🐍 Python Tooling
-- **rush-hour-solver** — Risolutore puzzle Rush Hour con BFS e interfacce TUI/GUI/CLI
+### 🐍 Python Tooling
+- **[rush-hour-solver](https://github.com/Crovax1990/rush-hour-solver)** — Risolutore puzzle Rush Hour con **BFS**, TUI/GUI/CLI.
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
 
-- **snake-py** — Snake game con AI bot (Hamiltonian cycle, A*, BFS)
+- **[snake-py](https://github.com/Crovax1990/snake-py)** — Snake game con AI bot (Hamiltonian cycle, **A\***, **BFS**).
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![PyGame](https://img.shields.io/badge/Pygame-006600?style=flat&logo=python&logoColor=white)
 
-- **draiver-pubmed-scraper** — Scraper asincrono PubMed → CSV
+- **[draiver-pubmed-scraper](https://github.com/Crovax1990/draiver-pubmed-scraper)** — Scraper asincrono PubMed → CSV.
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-#### 📚 Research Wikis
-- **midwife-llm-wiki** — Ricerca ostetrica (pattern llm-wiki)
-- **draiver-home-scraper** — Documentazione immobiliare: modello Pydantic 3D, rendering SVG planimetrie, analisi geometrie con Shapely
+### 📚 Research Wikis (llm-wiki pattern)
+- **[midwife-llm-wiki](https://github.com/Crovax1990/midwife-llm-wiki)** — Ricerca ostetrica
+- **[draiver-home-scraper](https://github.com/Crovax1990/draiver-home-scraper)** — Documentazione immobiliare (Pydantic 3D, SVG planimetrie, Shapely)
   pattern **[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** · Obsidian · Python · Shapely
 
----
-
-### 💞️ Collaborazioni
-
-Sono aperto a collaborare su progetti **Open Source** che riguardano l'ecosistema **Spring**, strumenti per **Agentic AI** o architetture distribuite. Se stai costruendo qualcosa che usa l'AI per elevare la qualità del codice, connettiamoci!
-
----
-
-### 📬 Contatti
-
-* **LinkedIn:** [linkedin.com/in/luca-gobbi-12015580/](https://www.linkedin.com/in/luca-gobbi-12015580/)
-* **Email:** [luca.gobbi2@gmail.com](mailto:luca.gobbi2@gmail.com)
-* **Pronomi:** Lui / He
+### ⚡ Infrastructure
+- **[llama.cpp](https://github.com/Crovax1990/llama.cpp)** — Motore inferenza LLM locale (GGML, CUDA, ROCm), cuore dell'AI on-premise.
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+  ![ROCm](https://img.shields.io/badge/ROCm-76B900?style=flat&logo=amd&logoColor=white)
 
 ---
 
-### ⚡ Fun Facts & Life
+## 🐍 Contribution Snake
 
-* **The Name:** Il mio nickname viene da *Crovax the Cursed* (**Magic: The Gathering**). Un pezzo di storia che mi accompagna fin da bambino.
-* **Vibe Coding:** Nel tempo libero sperimento con **local LLM** sulla mia GPU e mi diverto a costruire tool AI-driven.
-* **RAG in Healthcare:** Seguo con interesse le ricerche su sistemi **RAG** applicati al mondo **healthcare**.
-* **Cycling:** Quando non sono al PC, mi trovi in sella alla mia bici — e nel tempo libero porto mio figlio al parco in bicicletta.
-* **Gaming:** Da WoW e LoL a **Factorio** e **Minecraft**. Se un gioco permette di costruire sistemi complessi e ottimizzare flussi, fa per me.
-* **Life:** Vivo nella splendida Firenze e dedico il mio tempo migliore alla mia compagna e a mio figlio.
+![snake gif](https://github.com/Crovax1990/Crovax1990/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💞️ Let's Connect / Connettiamoci
+
+Open to collaborate on **Open Source** projects around the **Spring** ecosystem, **Agentic AI** tooling, or distributed architectures. If you're building something that uses AI to elevate code quality — let's talk!
+
+Aperto a collaborazioni **Open Source** su ecosistema **Spring**, strumenti **Agentic AI** o architetture distribuite. Se stai costruendo qualcosa che usa l'AI per elevare la qualità del codice, connettiamoci!
+
+- **LinkedIn:** [linkedin.com/in/luca-gobbi-12015580](https://www.linkedin.com/in/luca-gobbi-12015580/)
+- **Email:** [luca.gobbi2@gmail.com](mailto:luca.gobbi2@gmail.com)
+- **Languages:** 🇮🇹 Italiano (madrelingua) · 🇬🇧 English (C1 — fluent written & spoken)
+- **Pronouns:** Lui / He
+
+---
+
+## ⚡ Fun Facts & Life / Curiosità
+
+- **The Name** — Il mio nickname viene da *Crovax the Cursed* (**Magic: The Gathering**). Un pezzo di storia che mi accompagna fin da bambino.
+- **Vibe Coding** — Sperimento con **local LLM** sulla mia **AMD RX 6800 16GB VRAM** con **ROCm** e mi diverto a costruire tool AI-driven.
+- **RAG in Healthcare** — Seguo con interesse le ricerche su sistemi **RAG** applicati al mondo **healthcare**.
+- **Cycling** — Quando non sono al PC, mi trovi in sella alla mia bici — e nel tempo libero porto mio figlio al parco in bicicletta.
+- **Gaming** — Da WoW e LoL a **Factorio** e **Minecraft**. Se un gioco permette di costruire sistemi complessi e ottimizzare flussi, fa per me.
+- **Life** — Vivo nella splendida Firenze e dedico il mio tempo migliore alla mia compagna e a mio figlio.
 
 ---
 
 Per 10 anni ho percorso Azeroth come **Tauren Druido Restoration** — da *Burning Crusade* a *Pandaria*, attraverso *WOTLK* e *Cataclysm*. Oggi esploro architetture enterprise e agentic AI con lo stesso spirito: pazienza da healer, resilienza tauren.
+
+For 10 years I roamed Azeroth as a **Tauren Restoration Druid** — from *Burning Crusade* through *Pandaria*, across *WOTLK* and *Cataclysm*. Today I explore enterprise architectures and agentic AI with the same spirit: a healer's patience, tauren resilience.
 
 **May the Earth Mother guide your path.** 🌿
