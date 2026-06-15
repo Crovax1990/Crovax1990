@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Crovax1990&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
+  <img src="https://github.com/Crovax1990/Crovax1990/blob/output/github-profile-trophy.svg" />
 </p>
 
 ---
