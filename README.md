@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/Crovax1990">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crovax1990&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Crovax1990&amp;theme=tokyonight&amp;hide_border=true" />
+    <img height="180em" src="https://github.com/Crovax1990/Crovax1990/blob/output/github-stats.svg" />
+    <img height="180em" src="https://github.com/Crovax1990/Crovax1990/blob/output/github-streak-stats.svg" />
   </a>
 </p>
 

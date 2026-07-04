@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -19,6 +19,12 @@ jobs:
           theme: tokyonight
           no-frame: true
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card
+        run: curl -sS -o dist/github-stats.svg "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crovax1990&theme=tokyonight"
+
+      - name: Generate streak stats
+        run: curl -sS -o dist/github-streak-stats.svg "https://streak-stats.demolab.com?user=Crovax1990&theme=tokyonight&hide_border=true"
 
       - uses: Platane/snk@v3
         id: snake-gif
