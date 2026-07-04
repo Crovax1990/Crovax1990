@@ -23,9 +23,9 @@
 
 ## 👋 About Me / Chi Sono
 
-**🇬🇧** Senior Software Engineer, Technical Lead & Software Architect with **9+ years** designing and modernizing mission-critical enterprise platforms. Specialized in **Cloud Native** architectures, **Event-Driven** systems, and **Agentic AI** workflows. Proud father, ex-Tauren Restoration Druid from BC to Pandaria 🌿 — now I raid enterprise stacks.
+**🇬🇧** Senior Software Engineer with **9+ years** designing and modernizing mission-critical enterprise platforms. Led the modernization of the national highway traffic data acquisition system at **Engineering** and contributed to the architectural evolution of **Wolters Kluwer**'s CPM core product. Key expertise in **Cloud Native** architectures (AWS, Kubernetes), data streaming (Kafka), DevOps/GitOps, and AI-assisted workflows (SDD, MCP). Proven technical leadership of Agile teams and end-to-end project governance. Proud father, ex-Tauren Restoration Druid from BC to Pandaria 🌿 — now I raid enterprise stacks.
 
-**🇮🇹** Senior Software Engineer, Technical Lead e Software Architect con **oltre 9 anni** di progettazione e modernizzazione di piattaforme enterprise mission-critical. Specializzato in architetture **Cloud Native**, sistemi **Event-Driven** e workflow **Agentic AI**. Orgoglioso papà, ex-Druid Resto Tauren da BC a Pandaria 🌿 — oggi tanko stack enterprise.
+**🇮🇹** Senior Software Engineer con **9+ anni** di esperienza nella progettazione e modernizzazione di piattaforme enterprise mission-critical. Ha guidato l'ammodernamento del sistema nazionale di acquisizione dati di traffico autostradale presso **Engineering** e contribuito all'evoluzione architetturale del prodotto CPM core di **Wolters Kluwer**. Competenze chiave in architetture **Cloud Native** (AWS, Kubernetes), streaming dati (Kafka), DevOps/GitOps e integrazione di workflow AI-assistiti (SDD, MCP). Esperienza consolidata nella leadership tecnica di team Agile e governance di progetti end-to-end. Orgoglioso papà, ex-Druid Resto Tauren da BC a Pandaria 🌿 — oggi tanko stack enterprise.
 
 ---
 
@@ -100,7 +100,7 @@
 ## 📦 Featured Projects / Progetti
 
 ### 🤖 AI & RAG
-- **[docling-rag-app](https://github.com/Crovax1990/docling-rag-app)** — RAG pipeline 100% locale con **LlamaIndex** + **Ollama** + **ChromaDB**. Generazione autonoma di moduli didattici da documenti complessi via Agentic AI e **MCP**.
+- **[docling-rag-app](https://github.com/Crovax1990/docling-rag-app)** — Sistema che trasforma automaticamente documenti complessi in moduli didattici strutturati, riducendo da giorni a minuti il tempo di creazione materiale formativo. RAG pipeline 100% locale (dati sensibili non lasciano mai la macchina) con **LlamaIndex** + **Ollama** + **ChromaDB**. Knowledge management incrementale via pattern **llm-wiki** e Agentic AI **MCP**.
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![RAG](https://img.shields.io/badge/RAG-ChromaDB-4B8BBE?style=flat)
   ![MCP](https://img.shields.io/badge/MCP-Protocol-000?style=flat)
@@ -138,10 +138,15 @@
 - **[draiver-pubmed-scraper](https://github.com/Crovax1990/draiver-pubmed-scraper)** — Scraper asincrono PubMed → CSV.
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+- **[dichiarazione730-analyzer](https://github.com/Crovax1990/dichiarazione730-analyzer)** — Dashboard fiscale familiare interattiva: import automatico PDF 730/RedditiPF dall'Agenzia delle Entrate, estrazione strutturata di quadri reddituali e detrazioni, trend annuali e alert intelligenti su anomalie fiscali. Proiezione a 10 anni dei crediti residui da detrazioni edilizie.
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ### 📚 Research Wikis (llm-wiki pattern)
 - **[midwife-llm-wiki](https://github.com/Crovax1990/midwife-llm-wiki)** — Ricerca ostetrica
-- **[draiver-home-scraper](https://github.com/Crovax1990/draiver-home-scraper)** — Documentazione immobiliare (Pydantic 3D, SVG planimetrie, Shapely)
-  pattern **[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** · Obsidian · Python · Shapely
+- **[draiver-home-scraper](https://github.com/Crovax1990/draiver-home-scraper)** — Sistema integrato di gestione documentale immobiliare: estrazione dati da atti notarili e catastali, modello strutturato dell'immobile in **CityJSON**, analisi economica multi-scenario con ottimizzazione fiscale (IVA 10%, detrazioni 50%, Bonus Mobili). Gestione strutturata di **20+ documenti** e generazione automatica di report PDF e planimetrie 2D interattive.
+  pattern **[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** · Obsidian · Python · Pydantic · Shapely · PyMuPDF
 
 ### ⚡ Infrastructure
 - **[llama.cpp](https://github.com/Crovax1990/llama.cpp)** — Motore inferenza LLM locale (GGML, CUDA, ROCm), cuore dell'AI on-premise.
