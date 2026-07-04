@@ -95,7 +95,19 @@
 ![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-> **Practices:** Agile Scrum · Spec-Driven Development · GitOps · Event-Driven Architecture
+> **Practices:** Agile Scrum · Spec-Driven Development · GitOps · Event-Driven Architecture · YAGNI
+
+---
+
+## 🧠 YAGNI — You Aren't Gonna Need It
+
+> *"Non ne avrai bisogno"* — principio cardine dell'Extreme Programming.
+
+Non implementare funzionalità finché non sono **strettamente necessarie**. Scrivi solo il codice che serve oggi, evita di anticipare bisogni futuri ipotetici. Previene l'overengineering: meno codice morto da testare e mantenere, design più flessibile, team focalizzato sul valore immediato.
+
+**Come applicarlo:** niente pianificazione eccessiva (Big Design Up Front), implementa solo le user story dell'iterazione corrente, scegli sempre la soluzione più semplice che funziona.
+
+**Attenzione:** YAGNI non è una scusa per codice disordinato o per ignorare sicurezza, autenticazione e scalabilità di base — quelle servono dal giorno uno.
 
 ---
 
