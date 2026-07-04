@@ -49,21 +49,19 @@
 
 ## 🚀 Tech Stack
 
-### Architectures & Languages
-![Java](https://img.shields.io/badge/Java_1.8--21+-ED8B00?style=flat&logo=openjdk&logoColor=white)
+### Languages & Runtimes
+![Java](https://img.shields.io/badge/Java_1.8→21+-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![UV](https://img.shields.io/badge/uv-Package_Manager-261230?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### Data & Messaging
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Kafka Streams](https://img.shields.io/badge/Kafka_Streams-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Avro](https://img.shields.io/badge/Avro_Schema_Registry-231F20?style=flat&logo=apache&logoColor=white)
-
-### Cloud & DevOps
+### Cloud, DevOps & Observability
 ![AWS](https://img.shields.io/badge/AWS_EKS_Lambda_S3-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -71,29 +69,33 @@
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-5C6BC0?style=flat&logo=opentelemetry&logoColor=white)
+
+### Data, Streaming & Messaging
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Kafka Streams](https://img.shields.io/badge/Kafka_Streams-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Avro](https://img.shields.io/badge/Avro_Schema_Registry-231F20?style=flat&logo=apache&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### AI & Agentic Development
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-4285F4?style=flat&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-000?style=flat&logo=protocolsdotio&logoColor=white)
+![PI Agent](https://img.shields.io/badge/PI_Agent-6DB33F?style=flat&logo=robotframework&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat&logo=ollama&logoColor=white)
 ![Local LLM](https://img.shields.io/badge/Local_LLMs-Qwen_Gemma_Llama-FF6F00?style=flat&logo=llama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_ChromaDB-3776AB?style=flat&logo=python&logoColor=white)
-![OpenSpec](https://img.shields.io/badge/OpenSpec_SDD-000?style=flat&logo=openapi&logoColor=white)
+![OpenSpec](https://img.shields.io/badge/SDD_OpenSpec-000?style=flat&logo=openapi&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-### Practices
-![Scrum](https://img.shields.io/badge/Agile_Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
-![SDD](https://img.shields.io/badge/Spec_Driven_Dev-000?style=flat&logo=openapi&logoColor=white)
-![GitOps](https://img.shields.io/badge/GitOps-EF7B4D?style=flat&logo=argo&logoColor=white)
+> **Practices:** Agile Scrum · Spec-Driven Development · GitOps · Event-Driven Architecture
 
 ---
 
@@ -138,7 +140,7 @@
 - **[draiver-pubmed-scraper](https://github.com/Crovax1990/draiver-pubmed-scraper)** — Scraper asincrono PubMed → CSV.
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- **[dichiarazione730-analyzer](https://github.com/Crovax1990/dichiarazione730-analyzer)** — Dashboard fiscale familiare interattiva: import automatico PDF 730/RedditiPF dall'Agenzia delle Entrate, estrazione strutturata di quadri reddituali e detrazioni, trend annuali e alert intelligenti su anomalie fiscali. Proiezione a 10 anni dei crediti residui da detrazioni edilizie.
+- **[dichiaro](https://github.com/Crovax1990/dichiaro)** — Dashboard fiscale familiare interattiva: import automatico PDF 730/RedditiPF dall'Agenzia delle Entrate, estrazione strutturata di quadri reddituali e detrazioni, trend annuali e alert intelligenti su anomalie fiscali. Proiezione a 10 anni dei crediti residui da detrazioni edilizie.
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
