@@ -11,14 +11,15 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: Crovax1990
-          file: dist/github-profile-trophy.svg
-          theme: tokyonight
-          no-frame: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create dist directory
+        run: mkdir -p dist
+
+      - name: Generate trophy (primary)
+        run: curl -sS -o dist/github-profile-trophy.svg "https://github-profile-trophy-orcin-eta.vercel.app/?username=Crovax1990&theme=tokyonight&no-frame=true"
+
+      - name: Generate trophy (fallback)
+        if: failure()
+        run: curl -sS -o dist/github-profile-trophy.svg "https://github-profile-trophy-unserori.vercel.app/?username=Crovax1990&theme=tokyonight&no-frame=true"
 
       - name: Generate stats card
         run: curl -sS -o dist/github-stats.svg "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Crovax1990&theme=tokyonight"
