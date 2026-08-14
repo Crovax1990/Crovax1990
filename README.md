@@ -122,66 +122,21 @@ Non implementare funzionalità finché non sono **strettamente necessarie**. Scr
 
 ## 📦 Featured Projects / Progetti
 
-### 🤖 AI & RAG
-- **[docling-rag-app](https://github.com/Crovax1990/docling-rag-app)** — Sistema che trasforma automaticamente documenti complessi in moduli didattici strutturati, riducendo da giorni a minuti il tempo di creazione materiale formativo. RAG pipeline 100% locale (dati sensibili non lasciano mai la macchina) con **LlamaIndex** + **Ollama** + **ChromaDB**. Knowledge management incrementale via pattern **llm-wiki** e Agentic AI **MCP**.
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![RAG](https://img.shields.io/badge/RAG-ChromaDB-4B8BBE?style=flat)
-  ![MCP](https://img.shields.io/badge/MCP-Protocol-000?style=flat)
+### 🔥 Principali / Main
 
-- **[draiver-nexus](https://github.com/Crovax1990/draiver-nexus)** — ETL e-commerce con estrazione AI da siti italiani. **FastAPI**, **PostgreSQL**, **Docker**.
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+**draiver-flow** 🔒 private — Enterprise cloud-native: **Micro Frontend** (Vite Module Federation) + **Java 21 Spring Boot** su **Hexagonal Architecture** (Ports & Adapters). Playlist XSPF/VLC, voting immagini **ELO-based**, slideshow con caching **Caffeine**, download automatici con progress **SSE**, **Virtual Threads** (Project Loom) + **ZGC**.
 
-### ☕ Enterprise Java
-- **[draiver-flow](https://github.com/Crovax1990/draiver-flow)** — Cloud-native: Micro Frontend, Virtual Threads, **Kafka**, integrazione **llama.cpp** per AI on-premise.
-  ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-  ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+**draiver-resume-cli** · [repo](https://github.com/Crovax1990/draiver-resume-cli) — Pipeline **resume-as-code** multi-CV: PDF da JSON Resume con rendering headless **Puppeteer**, traduzione automatica IT→EN (LLM locale / OpenAI). Makefile-driven, auto-discovery dei CV.
 
-### 🖥️ Desktop Apps (Tauri + React + Rust)
-- **[smart-sales-calendar](https://github.com/Crovax1990/smart-sales-calendar)** — CRM vendite dentali con reminder intelligenti, offline-first.
-  ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+**dichiaro** · [repo](https://github.com/Crovax1990/dichiaro) — Dashboard fiscale interattiva: import blocco **PDF 730** dall'Agenzia delle Entrate, estrazione strutturata (**PyMuPDF**), trend interannuali, proiezioni a 10 anni, alert anomalie. **Streamlit** + **Plotly** + **SQLAlchemy 2.0**.
 
-- **[draiver-bakery-control](https://github.com/Crovax1990/draiver-bakery-control)** — Gestione contabile per panetteria offline-first.
-  ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+**draiver-organizer** 🔒 private — Organizzatore **SAFE** di directory documentali: manifest-first (nessuna cancellazione, sorgente intatta), classificazione a 10 categorie via `rules.toml`, checksum **SHA-256**, copia verificabile e report.
 
-### 🐍 Python Tooling
-- **[rush-hour-solver](https://github.com/Crovax1990/rush-hour-solver)** — Risolutore puzzle Rush Hour con **BFS**, TUI/GUI/CLI.
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white)
+**next-draiver-sirong** 🔒 private — Sito **SIRONG** (Società Italiana Ricerca Ostetrico-Neonatale-Ginecologica): **Next.js 16** (App Router, Turbopack), **React 19**, **TypeScript**, **Tailwind 4**, auth **next-auth** JWT, abbonamenti **PayPal**, area riservata multi-step.
 
-- **[snake-py](https://github.com/Crovax1990/snake-py)** — Snake game con AI bot (Hamiltonian cycle, **A\***, **BFS**).
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![PyGame](https://img.shields.io/badge/Pygame-006600?style=flat&logo=python&logoColor=white)
+### 🧩 Altri / Other
 
-- **[draiver-pubmed-scraper](https://github.com/Crovax1990/draiver-pubmed-scraper)** — Scraper asincrono PubMed → CSV.
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-- **[dichiaro](https://github.com/Crovax1990/dichiaro)** — Dashboard fiscale familiare interattiva: import automatico PDF 730/RedditiPF dall'Agenzia delle Entrate, estrazione strutturata di quadri reddituali e detrazioni, trend annuali e alert intelligenti su anomalie fiscali. Proiezione a 10 anni dei crediti residui da detrazioni edilizie.
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### 📚 Research Wikis (llm-wiki pattern)
-- **[midwife-llm-wiki](https://github.com/Crovax1990/midwife-llm-wiki)** — Ricerca ostetrica
-- **[draiver-home-scraper](https://github.com/Crovax1990/draiver-home-scraper)** — Sistema integrato di gestione documentale immobiliare: estrazione dati da atti notarili e catastali, modello strutturato dell'immobile in **CityJSON**, analisi economica multi-scenario con ottimizzazione fiscale (IVA 10%, detrazioni 50%, Bonus Mobili). Gestione strutturata di **20+ documenti** e generazione automatica di report PDF e planimetrie 2D interattive.
-  pattern **[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** · Obsidian · Python · Pydantic · Shapely · PyMuPDF
-
-### ⚡ Infrastructure
-- **[draiver-resume-cli](https://github.com/Crovax1990/draiver-resume-cli)** — Pipeline "resume-as-code" multi-CV: genera PDF da JSON (JSON Resume) con rendering headless Puppeteer e traduzione automatica IT→EN. Makefile-driven.
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-  ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
-
-- **[llama.cpp](https://github.com/Crovax1990/llama.cpp)** — Motore inferenza LLM locale (GGML, CUDA, ROCm), cuore dell'AI on-premise.
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-  ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-  ![ROCm](https://img.shields.io/badge/ROCm-76B900?style=flat&logo=amd&logoColor=white)
-
----
+[docling-rag-app](https://github.com/Crovax1990/docling-rag-app) · [draiver-home-scraper](https://github.com/Crovax1990/draiver-home-scraper) · [smart-sales-calendar](https://github.com/Crovax1990/smart-sales-calendar) · [draiver-nexus](https://github.com/Crovax1990/draiver-nexus) · [draiver-bakery-control](https://github.com/Crovax1990/draiver-bakery-control) · [midwife-llm-wiki](https://github.com/Crovax1990/midwife-llm-wiki) · [llama.cpp](https://github.com/Crovax1990/llama.cpp) · [rush-hour-solver](https://github.com/Crovax1990/rush-hour-solver) · [snake-py](https://github.com/Crovax1990/snake-py) · [draiver-pubmed-scraper](https://github.com/Crovax1990/draiver-pubmed-scraper)
 
 ## 🐍 Contribution Snake
 
@@ -202,19 +157,12 @@ Aperto a collaborazioni **Open Source** su ecosistema **Spring**, strumenti **Ag
 
 ---
 
-## ⚡ Fun Facts & Life / Curiosità
+## ⚡ Fun Facts / Curiosità
 
-- **The Name** — Il mio nickname viene da *Crovax the Cursed* (**Magic: The Gathering**). Un pezzo di storia che mi accompagna fin da bambino.
-- **Vibe Coding** — Sperimento con **local LLM** sulla mia **AMD RX 6800 16GB VRAM** con **ROCm** e mi diverto a costruire tool AI-driven.
-- **RAG in Healthcare** — Seguo con interesse le ricerche su sistemi **RAG** applicati al mondo **healthcare**.
-- **Cycling** — Quando non sono al PC, mi trovi in sella alla mia bici — e nel tempo libero porto mio figlio al parco in bicicletta.
-- **Gaming** — Da WoW e LoL a **Factorio** e **Minecraft**. Se un gioco permette di costruire sistemi complessi e ottimizzare flussi, fa per me.
-- **Life** — Vivo nella splendida Firenze e dedico il mio tempo migliore alla mia compagna e a mio figlio.
+- **The Name** — "Crovax" viene da *Crovax the Cursed* (**Magic: The Gathering**), mi accompagna fin da bambino.
+- **Vibe Coding** — sperimento con **local LLM** su **AMD RX 6800 16GB VRAM** (ROCm) e costruisco tool AI-driven.
+- **RAG in Healthcare** — seguo le ricerche su RAG applicato alla sanità.
+- **Cycling** — quando non sono al PC, sono in sella o porto mio figlio al parco in bici.
+- **Gaming** — da WoW e LoL a **Factorio** e **Minecraft**: sistemi complessi e ottimizzazione.
 
----
-
-Per 10 anni ho percorso Azeroth come **Tauren Druido Restoration** — da *Burning Crusade* a *Pandaria*, attraverso *WOTLK* e *Cataclysm*. Oggi esploro architetture enterprise e agentic AI con lo stesso spirito: pazienza da healer, resilienza tauren.
-
-For 10 years I roamed Azeroth as a **Tauren Restoration Druid** — from *Burning Crusade* through *Pandaria*, across *WOTLK* and *Cataclysm*. Today I explore enterprise architectures and agentic AI with the same spirit: a healer's patience, tauren resilience.
-
-**May the Earth Mother guide your path.** 🌿
+*Ex Tauren Restoration Druid (BC→Pandaria). May the Earth Mother guide your path.* 🌿
