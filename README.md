@@ -3,9 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luca-gobbi-12015580/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luca-gobbi-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:luca.gobbi2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Crovax1990&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  🔭 <b>Currently building:</b> cloud-native access-control platform on AWS EKS (gRPC · Kafka · Dremio/Iceberg · Terraform)
+  <br>
+  🤝 <b>Open to:</b> senior backend & technical-lead roles, open-source collaboration
 </p>
 
 <p align="center">
@@ -33,7 +39,7 @@
 
 | Period | Role | Highlights |
 |--------|------|------------|
-| **2025-present** | Senior Software Engineer | Cloud-native platform migration: **Kubernetes**, **Kafka**, **ArgoCD**, **GitOps**. **Agentic AI** integration via **MCP**, **OpenSpec** SDD, **GitHub Copilot CLI**. Agile Scrum facilitation. |
+| **2025-present** | Senior Software Engineer | Cloud-native platform on **AWS EKS**: **gRPC** microservices (Spring Boot 4) with O(1) pre-computed access lookups on **Dremio/Iceberg**, **Kafka** event-driven pipeline, migration to **Starburst**, **Terraform** git-tagged modules, **OpenTelemetry** observability. **Agentic AI** via **MCP**, **OpenSpec** SDD, **GitHub Copilot CLI**. |
 | **2019–2025** · 6 yrs | Senior SE / Technical Lead | Led national critical traffic data acquisition systems. **Kafka Streams** real-time pipelines. Microservices on **AWS EKS** (Lambda, S3, Aurora PostgreSQL). **Angular** micro-frontends. **CI/CD** automation (Jenkins, GitLab CI, UrbanCode). |
 | **2016–2019** · 3 yrs | Junior Developer / SysAdmin | Batch **Java** apps for energy sector (EE & GAS contracts). End-to-end **forecasting system** for electricity consumption. **JasperReports** invoicing. **Spring Framework**, **Oracle DB**. |
 | **2016** | Data Entry / Jr Developer | **Java** connector for automated photovoltaic plant data import from CSV. |
@@ -51,8 +57,9 @@
 
 ### Languages & Runtimes
 ![Java](https://img.shields.io/badge/Java_1.8→21+-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![UV](https://img.shields.io/badge/uv-Package_Manager-261230?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
@@ -67,6 +74,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
@@ -163,6 +172,10 @@ Non implementare funzionalità finché non sono **strettamente necessarie**. Scr
   pattern **[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)** · Obsidian · Python · Pydantic · Shapely · PyMuPDF
 
 ### ⚡ Infrastructure
+- **[draiver-resume-cli](https://github.com/Crovax1990/draiver-resume-cli)** — Pipeline "resume-as-code" multi-CV: genera PDF da JSON (JSON Resume) con rendering headless Puppeteer e traduzione automatica IT→EN. Makefile-driven.
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
+
 - **[llama.cpp](https://github.com/Crovax1990/llama.cpp)** — Motore inferenza LLM locale (GGML, CUDA, ROCm), cuore dell'AI on-premise.
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
   ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
@@ -182,7 +195,7 @@ Open to collaborate on **Open Source** projects around the **Spring** ecosystem,
 
 Aperto a collaborazioni **Open Source** su ecosistema **Spring**, strumenti **Agentic AI** o architetture distribuite. Se stai costruendo qualcosa che usa l'AI per elevare la qualità del codice, connettiamoci!
 
-- **LinkedIn:** [linkedin.com/in/luca-gobbi-12015580](https://www.linkedin.com/in/luca-gobbi-12015580/)
+- **LinkedIn:** [linkedin.com/in/luca-gobbi-dev](https://www.linkedin.com/in/luca-gobbi-dev/)
 - **Email:** [luca.gobbi2@gmail.com](mailto:luca.gobbi2@gmail.com)
 - **Languages:** 🇮🇹 Italiano (madrelingua) · 🇬🇧 English (C1 — fluent written & spoken)
 - **Pronouns:** Lui / He
