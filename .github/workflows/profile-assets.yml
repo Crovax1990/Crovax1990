@@ -9,7 +9,7 @@ on:
       - main
     paths:
       - ".github/workflows/profile-assets.yml"
-      - "scripts/generate_snake.py"
+      - "scripts/generate_status.py"
 
 concurrency:
   group: profile-assets
@@ -28,28 +28,12 @@ jobs:
       - name: Create dist directory
         run: mkdir -p dist
 
-      - name: Generate streak stats
-        run: |
-          set -euo pipefail
-          curl -fsSL --retry 3 --retry-delay 5 \
-            -o dist/github-streak-stats-matrix.svg \
-            "https://streak-stats.demolab.com?user=Crovax1990&hide_border=true&disable_animations=true&background=050805&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=9DFFB0&currStreakLabel=00FF41&sideLabels=9DFFB0&dates=4E9A5B&stroke=0A3A1B"
-
-      - name: Generate activity snake
+      - name: Generate system status
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          python3 scripts/generate_snake.py \
-            --user Crovax1990 \
-            --output dist/github-activity-snake-matrix-dark.svg \
-            --theme matrix \
-            --frame
-          python3 scripts/generate_snake.py \
-            --user Crovax1990 \
-            --output dist/github-activity-snake-matrix-light.svg \
-            --theme matrix-light \
-            --frame
+          python3 scripts/generate_status.py --user Crovax1990 --output-dir dist
 
       - name: Validate generated assets
         run: |
@@ -57,6 +41,7 @@ jobs:
           for f in dist/*.svg; do
             test -s "$f"
             test "$(stat -c%s "$f")" -gt 512
+            test "$(stat -c%s "$f")" -lt 51200
             grep -q "<svg" "$f"
           done
           ls -lh dist

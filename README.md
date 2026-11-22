@@ -66,23 +66,25 @@ I design and modernize software for environments where reliability, traceability
 | **[draiver-resume-cli](https://github.com/Crovax1990/draiver-resume-cli)**<br><sub>Resume-as-code pipeline: multilingual PDFs from JSON Resume, headless rendering, local/provider LLM translation.</sub> | `Python` · `LLM translation` · `Make` |
 | **[dichiaro](https://github.com/Crovax1990/dichiaro)**<br><sub>Interactive tax dashboard: structured PDF extraction, multi-year analysis, deduction projections and anomaly detection.</sub> | `Python` · `Streamlit` · `Plotly` · `SQLite` |
 
-## > recent_activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-streak-stats-matrix.svg" alt="GitHub contribution streak: current, total and longest streak" width="495" />
-</p>
+## > system_status
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-activity-snake-matrix-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-activity-snake-matrix-light.svg" />
-    <img src="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-activity-snake-matrix-dark.svg" alt="Animated snake eating the GitHub contribution graph, with a 28-day recent activity strip" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-status-matrix-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-status-matrix-light.svg" />
+    <img src="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-status-matrix-dark.svg" alt="System status: Software Architect, 24-month contribution window, core stack Kubernetes, event-driven architecture, OpenTelemetry and LLM." width="100%" />
   </picture>
 </p>
 
-<p align="center">
-  <sub>The snake eats the contribution graph; the strip above it tracks the last 28 days. Regenerated every 12 hours.</sub>
-</p>
+| System | Status |
+| --- | --- |
+| **Role** | Software Architect |
+| **Window** | 24 months |
+| **Core** | Kubernetes · Event-Driven · OpenTelemetry · LLM |
+| **Current** | cloud-agnostic access-control platform |
+| **Private work** | not public by default |
+
+> **Current missions:** access-control platform · draiver-flow (private) · agentic workflows / local inference.
 
 ## > connect
 
