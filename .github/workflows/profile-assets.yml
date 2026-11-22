@@ -28,7 +28,7 @@ jobs:
         run: |
           set -euo pipefail
           curl -fsSL --retry 3 --retry-delay 5 \
-            -o dist/github-streak-stats.svg \
+            -o dist/github-streak-stats-matrix.svg \
             "https://streak-stats.demolab.com?user=Crovax1990&hide_border=true&disable_animations=true&background=050805&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=9DFFB0&currStreakLabel=00FF41&sideLabels=9DFFB0&dates=4E9A5B&stroke=0A3A1B"
 
       - name: Generate contribution snake
@@ -36,8 +36,8 @@ jobs:
         with:
           github_user_name: Crovax1990
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00FF41&color_dots=#0A3A1B,#006622,#00A838,#22D744,#9DFFB0
-            dist/github-contribution-grid-snake.svg?color_snake=#007A1F&color_dots=#E6F4EA,#B7E4C7,#74C69D,#2D6A4F,#081C15
+            dist/github-contribution-grid-snake-matrix-dark.svg?color_snake=#00FF41&color_dots=#0A3A1B,#006622,#00A838,#22D744,#9DFFB0
+            dist/github-contribution-grid-snake-matrix-light.svg?color_snake=#007A1F&color_dots=#E6F4EA,#B7E4C7,#74C69D,#2D6A4F,#081C15
 
       - name: Validate generated assets
         run: |

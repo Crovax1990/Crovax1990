@@ -68,14 +68,14 @@ I design and modernize software for environments where reliability, traceability
 ## > telemetry
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-streak-stats.svg" alt="GitHub contribution streak: current, total and longest streak" width="495" />
+  <img src="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-streak-stats-matrix.svg" alt="GitHub contribution streak: current, total and longest streak" width="495" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-contribution-grid-snake-matrix-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-contribution-grid-snake-matrix-light.svg" />
+    <img src="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-contribution-grid-snake-matrix-dark.svg" alt="Animated contribution graph snake" width="100%" />
   </picture>
 </p>
 
