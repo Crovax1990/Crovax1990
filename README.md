@@ -66,7 +66,7 @@ I design and modernize software for environments where reliability, traceability
 | **[draiver-resume-cli](https://github.com/Crovax1990/draiver-resume-cli)**<br><sub>Resume-as-code pipeline: multilingual PDFs from JSON Resume, headless rendering, local/provider LLM translation.</sub> | `Python` · `LLM translation` · `Make` |
 | **[dichiaro](https://github.com/Crovax1990/dichiaro)**<br><sub>Interactive tax dashboard: structured PDF extraction, multi-year analysis, deduction projections and anomaly detection.</sub> | `Python` · `Streamlit` · `Plotly` · `SQLite` |
 
-## > telemetry
+## > recent_activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-streak-stats-matrix.svg" alt="GitHub contribution streak: current, total and longest streak" width="495" />
@@ -74,10 +74,14 @@ I design and modernize software for environments where reliability, traceability
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-contribution-grid-snake-matrix-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-contribution-grid-snake-matrix-light.svg" />
-    <img src="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-contribution-grid-snake-matrix-dark.svg" alt="Animated contribution graph snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-activity-snake-matrix-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-activity-snake-matrix-light.svg" />
+    <img src="https://raw.githubusercontent.com/Crovax1990/Crovax1990/output/github-activity-snake-matrix-dark.svg" alt="Animated snake eating the GitHub contribution graph, with a 28-day recent activity strip" width="100%" />
   </picture>
+</p>
+
+<p align="center">
+  <sub>The snake eats the contribution graph; the strip above it tracks the last 28 days. Regenerated every 12 hours.</sub>
 </p>
 
 ## > connect

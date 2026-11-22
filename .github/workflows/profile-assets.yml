@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - ".github/workflows/profile-assets.yml"
+      - "scripts/generate_snake.py"
 
 concurrency:
   group: profile-assets
@@ -31,13 +32,21 @@ jobs:
             -o dist/github-streak-stats-matrix.svg \
             "https://streak-stats.demolab.com?user=Crovax1990&hide_border=true&disable_animations=true&background=050805&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=9DFFB0&currStreakLabel=00FF41&sideLabels=9DFFB0&dates=4E9A5B&stroke=0A3A1B"
 
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Crovax1990
-          outputs: |
-            dist/github-contribution-grid-snake-matrix-dark.svg?color_snake=#00FF41&color_dots=#0A3A1B,#006622,#00A838,#22D744,#9DFFB0
-            dist/github-contribution-grid-snake-matrix-light.svg?color_snake=#007A1F&color_dots=#E6F4EA,#B7E4C7,#74C69D,#2D6A4F,#081C15
+      - name: Generate activity snake
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          python3 scripts/generate_snake.py \
+            --user Crovax1990 \
+            --output dist/github-activity-snake-matrix-dark.svg \
+            --theme matrix \
+            --frame
+          python3 scripts/generate_snake.py \
+            --user Crovax1990 \
+            --output dist/github-activity-snake-matrix-light.svg \
+            --theme matrix-light \
+            --frame
 
       - name: Validate generated assets
         run: |
