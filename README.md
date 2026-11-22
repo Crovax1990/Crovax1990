@@ -15,11 +15,12 @@
 
 ```console
 luca@crovax:~$ whoami
-> Software Architect — backend & platform engineering
+> Software Architect
 luca@crovax:~$ cat focus.md
-> cloud-agnostic · event-driven · OTEL · applied AI
+> cloud-agnostic · event-driven · OTEL
+> LLM embedding & inference
 luca@crovax:~$ ls ./now
-> access-control/  agentic-workflows/  local-llm/
+> access-control/  ai-agents/
 luca@crovax:~$ _
 ```
 
