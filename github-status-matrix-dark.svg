@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340" role="img" aria-labelledby="t d">
+  <title id="t">System status — Software Architect, 24 months</title>
+  <desc id="d">89 contributions across 11 active months. Core: Kubernetes, event-driven architecture, OpenTelemetry, LLM. Current mission: access-control platform. Private work not public.</desc>
+  <style>
+    text { font-family: ui-monospace,'SF Mono',Menlo,Consolas,'Courier New',monospace; }
+    .head { font-size: 12px; font-weight: 700; fill: #00FF41; letter-spacing: 1.5px; }
+    .meta { font-size: 9.5px; fill: #4E9A5B; letter-spacing: .8px; }
+    .label { font-size: 9.5px; fill: #4E9A5B; letter-spacing: 1.2px; }
+    .value { font-size: 12px; font-weight: 600; fill: #C9D1D9; }
+    .accent { fill: #00FF41; }
+    .secondary { fill: #9DFFB0; }
+    .mission { font-size: 10.5px; fill: #C9D1D9; }
+    .mission-title { font-size: 10.5px; fill: #00FF41; }
+    .cursor { animation: blink 1.2s steps(1) infinite; }
+    .pulse { animation: pulse 2.6s ease-in-out infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .3; } }
+    @media (prefers-reduced-motion: reduce) { .cursor, .pulse { animation: none; } }
+  </style>
+
+  <rect x="1" y="1" width="798" height="338" rx="12" fill="#050805" stroke="#0A3A1B"/>
+  <circle class="pulse" cx="30" cy="28" r="3.5" fill="#00FF41"/>
+  <text class="head" x="42" y="32">SYSTEM STATUS // ONLINE</text>
+  <text class="meta" x="772" y="32" text-anchor="end">SYNC 12H</text>
+  <line x1="28" y1="44" x2="772" y2="44" stroke="#0A3A1B"/>
+
+  <text class="label" x="28" y="68">ROLE</text>
+  <text class="value" x="142" y="68">Software Architect</text>
+  <text class="label" x="28" y="94">WINDOW</text>
+  <text class="value" x="142" y="94">24 months</text>
+  <text class="label" x="28" y="120">CONTRIBUTIONS</text>
+  <text class="value" x="142" y="120">89</text>
+  <text class="label" x="28" y="146">ACTIVE MONTHS</text>
+  <text class="value" x="142" y="146">11/24</text>
+  <text class="label" x="28" y="172">PRIVATE WORK</text>
+  <text class="value secondary" x="142" y="172">NOT PUBLIC</text>
+  <text class="label" x="28" y="198">CURRENT</text>
+  <text class="value accent" x="142" y="198">access-control platform</text>
+
+  <text class="meta" x="410" y="88">24M SIGNAL</text>
+    <rect x="410" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="425" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="440" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="455" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="470" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="485" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="500" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="515" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="530" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="545" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="560" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="575" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="590" y="154" width="12" height="4" rx="2" fill="#0A1A10"/>
+  <rect x="605" y="151" width="12" height="7" rx="2" fill="#0A3A1B"/>
+  <rect x="620" y="141" width="12" height="17" rx="2" fill="#006622"/>
+  <rect x="635" y="147" width="12" height="11" rx="2" fill="#0A3A1B"/>
+  <rect x="650" y="151" width="12" height="7" rx="2" fill="#0A3A1B"/>
+  <rect x="665" y="142" width="12" height="16" rx="2" fill="#006622"/>
+  <rect x="680" y="116" width="12" height="42" rx="2" fill="#22D744"/>
+  <rect x="695" y="126" width="12" height="32" rx="2" fill="#00A838"/>
+  <rect x="710" y="141" width="12" height="17" rx="2" fill="#006622"/>
+  <rect x="725" y="151" width="12" height="7" rx="2" fill="#0A3A1B"/>
+  <rect x="740" y="153" width="12" height="5" rx="2" fill="#0A3A1B"/>
+  <rect x="755" y="145" width="12" height="13" rx="2" fill="#0A3A1B"/>
+    <text class="meta" x="431" y="176" text-anchor="middle">2025</text>
+  <text class="meta" x="611" y="176" text-anchor="middle">2026</text>
+
+  <text class="meta" x="410" y="198">CORE</text>
+  <text class="value" x="410" y="216">K8s · Event-Driven</text>
+  <text class="value" x="410" y="232">OTEL · LLM</text>
+
+  <line x1="28" y1="250" x2="772" y2="250" stroke="#0A3A1B"/>
+  <text class="mission-title" x="28" y="270">&gt; mission_log<tspan class="cursor">_</tspan></text>
+  <text class="mission" x="28" y="290"><tspan class="accent">-</tspan> access-control platform · in progress</text>
+  <text class="mission" x="28" y="308"><tspan class="accent">-</tspan> draiver-flow · private</text>
+  <text class="mission" x="28" y="326"><tspan class="accent">-</tspan> agentic workflows / local inference · ongoing</text>
+</svg>
